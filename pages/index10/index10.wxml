@@ -1,0 +1,4 @@
+<view>
+    <image src="../../icon/11.jpg" mode="aspectFit" />
+    <image src="../../icon/11.jpg" mode="aspectFill" />
+</view>

@@ -1,0 +1,9 @@
+/* pages/index6/index6.wxss */
+
+.box {
+  margin: 0;
+  padding: 0;
+  height: 100rpx;
+  width: 100rpx;
+  background: aqua;
+}

@@ -1,0 +1,6 @@
+<!-- pages/index3/index.wxml -->
+<view>hehe || {{msg}}</view>
+<view data-id="{{title}}">title</view>
+<view>
+    <checkbox checked="{{true}}" />
+</view>

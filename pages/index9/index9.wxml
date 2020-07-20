@@ -1,0 +1,4 @@
+<view hover-class="box">view</view>
+<view>
+    <text selectable="{{true}}">index text9</text>
+</view>

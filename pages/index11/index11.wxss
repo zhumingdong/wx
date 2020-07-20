@@ -1,0 +1,10 @@
+/* pages/index11/index11.wxss */
+swiper {
+  width: 100%;
+  height: 300rpx;
+}
+swipwe-item {
+}
+image {
+  width: 100%;
+}

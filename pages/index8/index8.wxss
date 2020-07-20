@@ -1,0 +1,6 @@
+/* pages/index8/index8.wxss */
+.box {
+  width: 100rpx;
+  height: 100rpx;
+  background-color: brown;
+}

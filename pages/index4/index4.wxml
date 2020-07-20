@@ -1,0 +1,8 @@
+<view>
+    <checkbox checked="{{isChecked?true:false}}" />
+</view>
+<view>{{num+numm}}</view>
+<view>{{str+str1}}</view>
+<view>
+    <checkbox checked="{{num3>=20}}" />
+</view>

@@ -1,0 +1,3 @@
+<view>
+    <navigator open-type="navigate" url="../index11/index11">index11</navigator>
+</view>
